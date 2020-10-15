@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alejozepol/ProyectoBaseReact.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alejozepol/ProyectoBaseReact/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/alejozepol/ProyectoBaseReact#readme",
+  "homepage": "",
   "dependencies": {
     "@babel/core": "^7.11.1",
     "@babel/plugin-transform-runtime": "^7.11.0",
