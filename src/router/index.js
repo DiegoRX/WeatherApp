@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Layout from '../container/Layout';
 import Home from '../page/home';
+import ResentSearch from '../page/resentSearch';
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Switch>
         <Layout>
           <Route exact path='/' component={Home} />
+          <Route exact path='/resentSearch' component={ResentSearch} />
         </Layout>
       </Switch>
     </BrowserRouter>

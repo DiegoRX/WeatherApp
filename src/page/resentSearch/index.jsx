@@ -1,9 +1,9 @@
 import React from 'react';
-import Main from '../../components/Main';
+import ResentSearch from '../../components/ResentSearch';
 
 const Home = () => {
   return (
-    <Main />
+    <ResentSearch />
   );
 };
 
