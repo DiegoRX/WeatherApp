@@ -3,6 +3,8 @@ _This is a technical Test for GrupoDot._
 
 _This proyect count whit the next dependencies **Eslint**, **Webpack**, **Babel**, **React**, **React-dom**, **Redux**, **styled-components**. Dev dependencies: **Webpack**, **Loader for ccs and html**_
 
+The time it took me to complete this task was 5h:25m
+
 ## Starting 🚀
 _This instruction will gide you through the process of installing and reviewing the proyect._
 
