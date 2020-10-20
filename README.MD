@@ -1,4 +1,4 @@
-# Repositorio Base para React
+# Weather App
 _This is a technical Test for GrupoDot._
 
 _This proyect count whit the next dependencies **Eslint**, **Webpack**, **Babel**, **React**, **React-dom**, **Redux**, **styled-components**. Dev dependencies: **Webpack**, **Loader for ccs and html**_
