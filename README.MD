@@ -1,5 +1,6 @@
 # Weather App
-_This is a technical Test for GrupoDot._
+_Weather app is a project desingned to check on frontend developer competences._
+_The project uses ReactJs, SASS, and it has an efficient fetching system designed to get the data from an open API._
 
 _This proyect counts whit the next dependencies **Eslint**, **Webpack**, **Babel**, **React**, **React-dom**, **Redux**, **styled-components**. Dev dependencies: **Webpack**, **Loader for ccs and html**_
 
